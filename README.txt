@@ -1,3 +1,8 @@
+
+Unofficial version
+(reset to SHA-1: 9e121212d42be62a7cce38072f925f8398d11e49 2020-07-20-22:47:29), used by [crashpad_cxx14](https://github.com/dagunliyu/crashpad_cxx14.git)
+
+## Original
 This directory contains hashes of build tools used by Chromium and related
 projects. The actual binaries are pulled from Google Storage, normally as part
 of a gclient hook.
